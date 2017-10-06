@@ -22,3 +22,6 @@ The dev mode is used to reload the server automatically when there is file chang
 ```
 npm run devstart
 ```
+
+## How to use the application
+By default the index page will display a random picture newly posted. It's possible to get some tag related pictures by accessing the ```/WhateverKeywordHere``` URL. 
